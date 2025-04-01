@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mynameismaki&show_icons=true&theme=dark&hide_border=true" alt="Your GitHub Stats" />
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynameismaki&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynameismaki&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
