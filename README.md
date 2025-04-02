@@ -17,6 +17,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynameismaki&layout=compact&theme=dark&hide_border=true&count=10" alt="Top Languages" />
 </p>
 
+### 📂 Exploring My Jupyter Notebooks
+- **Mainly Python!:** My Jupyter notebooks are predominantly used for the IBM Data Analyst Specialization, particularly for [IBM Courses Projects](https://github.com/mynameismaki/IBM-Courses-Projects) and the [IBM Capstone](https://github.com/mynameismaki/IBM-Capstone-Projects)!
+- For instance, I utilized them to import and investigate the [2019 Stack Overflow Developer Survey](https://survey.stackoverflow.co/) dataset.
+```
+import pandas as pd
+import requests as r
+dataset_url = "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DAB321EN-SkillsNetwork/LargeData/m1_survey_data.csv"
+df = pd.read_csv(dataset_url)
+```
+
+- After data processing and analysis, I developed a presentation based on the findings. In this instance, I was instructed to construct my dashboards using [IBM Cognos Analytics](https://www.ibm.com/products/cognos-analytics).
+    <p align="center">
+  <img src="https://github.com/mynameismaki/IBM-Capstone-Projects/blob/main/IBM%20Capstone%20sample%20dashboard.png" alt="IBM Cognos Analytics dashboard sample" width="800">
+    </p>
 ---
 
 ### ✨ What Drives Me
@@ -25,7 +39,9 @@
 - **Focus on Insights:** My goal is to go beyond the numbers and extract meaningful insights that drive understanding and action.
 - **Visualization is Key:** I'm passionate about creating clear and impactful visualizations that make complex data accessible and engaging.
 
-- - Don't just take my word for it – explore a sample of my analytical work!
+<p align="center">
+  Don't just take my word for it – explore a sample of my analytical work!
+</p>
 
 ### 🔍 Portfolio Highlight: Brazilian E-Commerce Analysis
 
@@ -37,13 +53,9 @@
 
 **View the Analysis:**
 * **Link to the GitHub Repository:**
-    ```markdown
-    - https://github.com/mynameismaki/Kaggle-projects.git
-    ```
+    - [Olist Repo](https://github.com/mynameismaki/Kaggle-projects.git)
 * **Link to a Presentation Platform:**
-    ```markdown
-    - https://github.com/mynameismaki/Kaggle-projects/blob/main/Olist.pdf
-    ```
+    - [Olist presentation](https://github.com/mynameismaki/Kaggle-projects/blob/main/Olist.pdf)
 * **Sample Dashboard for Key Visualizations:** using Power Bi!
     <p align="center">
   <img src="https://github.com/mynameismaki/Kaggle-projects/blob/main/Sample%20screenshot.png" alt="Power Bi dashboard sample" width="800">
